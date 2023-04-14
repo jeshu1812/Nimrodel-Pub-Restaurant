@@ -1,0 +1,17 @@
+.carrusel-fotos  {
+border: 3px solid black;
+width: 100px;
+height: 100px;
+}
+
+
+.carrusel menu {
+    display: none;
+}
+
+.carrusel {
+    display: flex;
+    width: 100%;
+    height: 100vh;
+    overflow-x: scroll;
+}
